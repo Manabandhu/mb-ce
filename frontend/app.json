@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "ManaBandhu",
+    "slug": "manabandhu",
+    "scheme": "manabandhu",
+    "platforms": ["ios", "android", "web"],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
